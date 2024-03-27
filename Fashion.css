@@ -13,6 +13,7 @@
     flex-direction: column;
     display: flex;
     cursor: pointer;
+    overflow: hidden;
 }
 
 .first-nav{
@@ -262,12 +263,8 @@ li:hover{
     
 }
 
-.acc{
-    width: 1.5rem;
-    height: 1.5rem;
-}
 
-.acc{
+.accc{
     width: 1.5rem;
     height: 1.5rem;
     margin-left: 5px;
@@ -1477,14 +1474,14 @@ li:hover{
 .dudes{
     width: 21rem;
     height: 18rem;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     position: relative;
 }
 
 .link{
     width: 13rem;
     height: 19rem;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     padding-top: 0.5rem;
     padding-left: 0.9rem;
     border-left: 1.5px solid lightslategray;
