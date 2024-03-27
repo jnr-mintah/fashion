@@ -263,8 +263,14 @@ li:hover{
     
 }
 
+.acccit{
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-left: 5px;
+}
 
-.accc{
+
+.acc{
     width: 1.5rem;
     height: 1.5rem;
     margin-left: 5px;
